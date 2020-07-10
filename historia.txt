@@ -4,3 +4,5 @@ Estoy aprendiendo a programar con Platzi.
 Apenas estoy comenzando pero estoy emocionado.
 
 Ya veremos de aqui a un año como vamos.
+
+Voy por el curso profesional de git y github.
